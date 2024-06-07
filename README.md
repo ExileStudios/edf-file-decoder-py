@@ -30,10 +30,10 @@ Place the script in the directory containing your `.edf` files and run the scrip
 python main.py
 ```
 
-The script will decode all `.edf` files in the current directory and save the decoded content to corresponding `.txt` files.
+## eolib-python
+
+This project uses the eolib-python library for data encryption and decryption. You can find the library on GitHub: [eolib-python](https://github.com/Cirras/eolib-python)
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
-```
